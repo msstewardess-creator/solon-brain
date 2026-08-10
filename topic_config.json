@@ -1,0 +1,15 @@
+{
+  "topics": {
+    "14": {
+      "name": "Солон",
+      "type": "assistant",
+      "mode": "free",
+      "cwd": "/home/lawyer/agents/denis/solon",
+      "mcp_config": null,
+      "stream_mode": "live",
+      "exec_mode": "tmux",
+      "engine": "claude",
+      "model": null
+    }
+  }
+}
