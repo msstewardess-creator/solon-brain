@@ -1,0 +1,27 @@
+{
+  "agent": "solon",
+  "scored_at": "2026-08-09T23:30:00Z",
+  "scout_dossier_used": "knowledge/scout/юрист-иски-возражения-2026-08-07.md",
+  "scores": {
+    "volume": 9,
+    "depth": 9,
+    "examples": 10,
+    "specificity": 9,
+    "freshness": 7
+  },
+  "avg": 8.8,
+  "verdict": "PASS",
+  "missing": [
+    "6 легаси .doc файлов не распознаны (нет LibreOffice/pandoc в системе), минимум 2 из них в области роли",
+    "Денис не отметил, какие из дел он считает образцовыми — весь корпус пока равноценен",
+    "Freshness ниже других осей: часть дел 2017-2019 года, актуальность процитированных в них норм/практики на сегодня не проверялась — это не голос, а фактура, поэтому это предупреждение для BUILD (голос стабилен во времени, а вот конкретные цифры/нормы из старых дел нельзя копировать как актуальные)"
+  ],
+  "sources_count": 51,
+  "files_collected": [
+    "office/agents/solon/knowledge/INDEX.md",
+    "office/agents/solon/knowledge/style.md",
+    "office/agents/solon/knowledge/methodology.md",
+    "office/agents/solon/knowledge/anti-patterns.md",
+    "C:\\Users\\user\\Desktop\\Аня\\Денис\\Денис образцы\\_распознанный_текст\\ (51 файл, вне git-репозитория — ПДн третьих лиц, см. INDEX.md)"
+  ]
+}
